@@ -1,0 +1,21 @@
+.odd {
+    background-color: #fc6666; 
+    font-family: 'Verdana', 'DejaVu Sanz', sans-serif;
+}
+
+#second {
+    color: #1111CC;
+    font-size: 36px;
+    font-family: "DejaVu Sanz", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #51FF51;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "DejaVu Sanz", sans-serif;
+}  
